@@ -62,7 +62,7 @@ const AddClient = () => {
             </tr>
             <tr>
               <td colSpan="2">
-                <button onClick={handleAddClient}>Inserir Cliente</button>
+                <button onClick={handleAddClient}>Enviar dados</button>
               </td>
             </tr>
           </tbody>
